@@ -1,5 +1,5 @@
 function EEG = converte_eeglab(nome, segData, lista_canais)
-    % Função para converter segData em estrutura EEG com chanlocs corretos
+    % Função para converter segData em estrutura EEG com chanlocs corretos.
     % Baseado em standard_1005.elc (FieldTrip)
 
     % Verificação básica
